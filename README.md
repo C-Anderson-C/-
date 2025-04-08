@@ -1,5 +1,5 @@
 # -自己写的输入模板（判断输入是否回文），输入合法性判断 - #
-
+```cpp
 #include<iostream>
 #include<String>
 #include<stdexcept>
